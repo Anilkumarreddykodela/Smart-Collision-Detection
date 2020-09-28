@@ -1,0 +1,2 @@
+# Smart-Collision-Detection
+This project demonstrates the use of Smart Phone Sensors and Machine Learning to detect the collision. The proposed system can be divided into two modules. Module 1 includes developing a mobile application for collecting data from the on-board sensors. Module 2 includes processing and classification of the data collected. We leverage a Machine Learning model in tandem with a neural network for classification of collision sounds collected from the smart phone.
